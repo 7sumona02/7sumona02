@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 Frontend Developer • Graphic Designer • Video Editor
-    💻 Technologies: HTML, CSS, JavaScript, TypeScript, React, Next, Python, Tailwindcss, Firebase, Vercel, OpenCV, Streamlit, Numpy,               Pandas, Matplotlib, Scikit-learn, Github, Bitbucket
+    💻 Technologies: HTML, CSS, JavaScript, TypeScript, React, Next, Python, Tailwindcss, Firebase, Vercel, OpenCV, Streamlit, Numpy, Pandas, Matplotlib, Scikit-learn, Github, Bitbucket
     🎨 Design: After Effects, Photoshop, Figma, Alight Motion
     📖 Learning: Framer motion, Three.js
     🎮 Hobbies: Editing, Coding, Gaming, Art
