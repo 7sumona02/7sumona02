@@ -19,6 +19,6 @@
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rllyexistin_) 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumona-biswas/)
 [![](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@y0ake77) 
-[![](https://img.shields.io/badge/peerlist-%23FF0000.svg?logo=peerlist&logoColor=white)](https://peerlist.io/sumona)
+[![](https://img.shields.io/badge/peerlist-%00aa45.svg?logo=peerlist&logoColor=white)](https://peerlist.io/sumona)
 
 </div>
